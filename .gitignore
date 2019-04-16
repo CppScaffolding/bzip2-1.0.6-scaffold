@@ -1,0 +1,4 @@
+## .gitignore file for bzip2-1.0.6-scaffold
+
+## ignore folder fetched through gclient
+bzip2-1.0.6
